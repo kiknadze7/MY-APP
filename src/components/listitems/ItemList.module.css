@@ -1,0 +1,18 @@
+.listItem {
+  /* padding: 10px; */
+  /* border: 1px solid #ccc; */
+  /* cursor: pointer; */
+  width: 25%;
+}
+.listItemContent {
+  margin: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.listItemDescription {
+  padding: 2px 10px;
+}
+.listImg {
+  width: 100%;
+}
